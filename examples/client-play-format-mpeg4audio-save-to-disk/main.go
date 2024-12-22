@@ -3,10 +3,10 @@ package main
 import (
 	"log"
 
-	"github.com/bluenviron/gortsplib/v4"
-	"github.com/bluenviron/gortsplib/v4/pkg/base"
-	"github.com/bluenviron/gortsplib/v4/pkg/format"
 	"github.com/bluenviron/mediacommon/pkg/formats/mpegts"
+	"github.com/ibiscum/gortsplib/v4"
+	"github.com/ibiscum/gortsplib/v4/pkg/base"
+	"github.com/ibiscum/gortsplib/v4/pkg/format"
 	"github.com/pion/rtp"
 )
 

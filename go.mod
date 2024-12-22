@@ -1,19 +1,19 @@
-module github.com/bluenviron/gortsplib/v4
+module github.com/ibiscum/gortsplib/v4
 
-go 1.20
+go 1.23.2
 
 require (
-	github.com/bluenviron/mediacommon v1.13.1
+	github.com/bluenviron/mediacommon v1.13.2
 	github.com/google/uuid v1.6.0
 	github.com/pion/rtcp v1.2.15
-	github.com/pion/rtp v1.8.9
+	github.com/pion/rtp v1.8.10
 	github.com/pion/sdp/v3 v3.0.9
 	github.com/stretchr/testify v1.10.0
-	golang.org/x/net v0.32.0
+	golang.org/x/net v0.33.0
 )
 
 require (
-	github.com/asticode/go-astikit v0.30.0 // indirect
+	github.com/asticode/go-astikit v0.51.1 // indirect
 	github.com/asticode/go-astits v1.13.0 // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/pion/randutil v0.1.0 // indirect

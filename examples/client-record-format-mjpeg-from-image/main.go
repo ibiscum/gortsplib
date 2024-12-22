@@ -7,10 +7,10 @@ import (
 	"image/jpeg"
 	"time"
 
-	"github.com/bluenviron/gortsplib/v4"
-	"github.com/bluenviron/gortsplib/v4/pkg/description"
-	"github.com/bluenviron/gortsplib/v4/pkg/format"
-	"github.com/bluenviron/gortsplib/v4/pkg/rtptime"
+	"github.com/ibiscum/gortsplib/v4"
+	"github.com/ibiscum/gortsplib/v4/pkg/description"
+	"github.com/ibiscum/gortsplib/v4/pkg/format"
+	"github.com/ibiscum/gortsplib/v4/pkg/rtptime"
 )
 
 // This example shows how to
