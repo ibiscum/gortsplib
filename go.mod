@@ -2,7 +2,7 @@ module github.com/ibiscum/gortsplib/v4
 
 go 1.23.2
 require (
-	github.com/bluenviron/mediacommon v1.13.2
+	github.com/bluenviron/mediacommon v1.14.0
 	github.com/google/uuid v1.6.0
 	github.com/pion/rtcp v1.2.15
 	github.com/pion/rtp v1.8.15
